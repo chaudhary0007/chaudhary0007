@@ -38,7 +38,7 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=chaudhary0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&border=652DA6 )
+<p align="center"> <img src = "https://github-readme-stats.vercel.app/api?username=chaudhary0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&border=652DA6" /></p>
 
 <br/>
 
