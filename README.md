@@ -31,19 +31,15 @@
 ## 📊 My Github Stats
 #
 <p align="center">
-    <a href="https://github.com/chaudhary0007/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Chaudhary0007&theme=dark&border_radius=6.4&date_format=j%20M%5B%20Y%5D&fire=6933FF&ring=6229FF&currStreakNum=792DEB&stroke=7E36EB&border=652DA6&currStreakLabel=9136EB">
-     </a>
-</p>
+ <img src="https://github-readme-stats.vercel.app/api?username=chaudhary0007&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for MishManners" width="500"><p>
 
-<br/>
 
 <p align="center"> 
- <a href="https://github.com/GeekeyCoder/github-readme-stats"><img alt="Atul Chaudhary's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaudhary0007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- </a>
- </p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chaudhary0007&theme=dark" width="500">
 
-<br/> 
+<p>
+
+<br/>
    
 
 # 🕊️ Views and Followers
