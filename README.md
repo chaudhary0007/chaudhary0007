@@ -21,9 +21,10 @@
 ### Connect with me:
 
 <p align="left">
+<a href = "https://www.instagram.com/atulchaudhary2717/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/atul8318/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/A_Chaudhary0007"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/atulchaudhary2717/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 </p>
 
 <br/>
@@ -31,7 +32,7 @@
 ## 📊 My Github Stats
 #
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=chaudhary0007&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for MishManners" width="500"><p>
+ <img src="https://github-readme-stats.vercel.app/api?username=chaudhary0007&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for chaudhary0007" width="500"><p>
 
 
 <p align="center"> 
