@@ -31,14 +31,18 @@
 
 ## 📊 My Github Stats
 #
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=chaudhary0007&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for chaudhary0007" width="500"><p>
 
 
 <p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=chaudhary0007&theme=dark" width="500">
 
 <p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=chaudhary0007&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for chaudhary0007" width="500"><p>
+
+
+
 
 <br/>
    
