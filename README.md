@@ -2,13 +2,11 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atul</h1>
 <h3 align="center"> I like to explore new technologies and develop software solutions and quick hacks. I'm on track for learning more about Systems Design, and Cloud Architecture. In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles. Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.</h3>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
   <img alt="[Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
 </picture>
-
 <br/>
 
 # 💻 Languages and Tools:
@@ -31,14 +29,10 @@
 
 ## 📊 My Github Stats
 #
-
-
 <p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=chaudhary0007&theme=dark" width="500">
-
 <p>
-
-<p align="center">
+<p align="center">      
  <img src="https://github-readme-stats.vercel.app/api?username=chaudhary0007&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for chaudhary0007" width="500"><p>
 
 
